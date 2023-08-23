@@ -1,5 +1,8 @@
 body {
     background-color: rgb(0, 0, 0);
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/little-cute-maltipoo-puppy-royalty-free-image-1652926025.jpg?crop=0.444xw:1.00xh;0.129xw,0&resize=980:*);
+    background-repeat: no-repeat;    
+    background-size: cover;
 }
 
 h1 {
@@ -7,11 +10,11 @@ h1 {
     background-color: rgb(71, 119, 213);
     width: 10%;
     height: 90%;
-    padding-left: 0%;
-    padding-right: 0%;
+    padding-left: .5%;
+    padding-right: .5%;
     padding-top: 2.5%;
     padding-bottom: 100%;
     margin: 0%;
-    border: .1em solid rgb(152, 152, 152);
+    border: .075em solid rgb(152, 152, 152);
     text-align: center;
 }
